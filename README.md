@@ -85,7 +85,7 @@ GitHub • Firebase • EJS • REST APIs
 
 ## 📫 Connect With Me
 
-* GitHub: [https://github.com/ShikharMishraCodes](https://github.com/ShikharMishraCodes)
+* GitHub: [https://github.com/ShikharMishraCodes](https://github.com/CodeWithShikhar)
 * LinkedIn: [https://www.linkedin.com/in/shikhar-mishra-14787b226/](https://www.linkedin.com/in/shikhar-mishra-14787b226/)
 * Email: [officialshikharmishra2002@gmail.com](mailto:officialshikharmishra2002@gmail.com)
 
