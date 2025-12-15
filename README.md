@@ -1,63 +1,94 @@
-<h1 align="center">Hey Shikhar mishra   here<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="50px"> </h1>
+# Hi 👋 I'm Shikhar Mishra
 
-<h3 align="left">A front end   web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
+**Full Stack (MERN) Developer | React • Node.js • MongoDB**
 
+I'm a passionate MERN Stack Developer with hands-on experience in building real-world web applications and ERP systems. I enjoy creating scalable backend architectures and clean, user-friendly front-end interfaces. Currently, I’m also involved in training and mentoring developers on modern full‑stack technologies.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=CodeWithShikhar&label=Profile%20views&color=0e75b6&style=flat" alt="codERSunny" /> </p>
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodeWithShikhar&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="codERSunny812" /></a> </p>
+## 👨‍💻 About Me
 
- - 🔭 I’m currently working on a Platform Project *LetsDosomething*
+* 💼 **Web Developer** at **Einfratech Systems India** (ERP – Sales Module)
+* 🧑‍🏫 **MERN Stack Trainer** at **Radiance Technologies** (US-based clients)
+* 🔭 Working with **Node.js, Express, MongoDB, React & Redux Toolkit**
+* 🌱 Focused on writing **clean, scalable & maintainable code**
+* 🎯 Actively seeking **Frontend / MERN Developer opportunities**
 
-- 🌱 I’m currently learning  and *java*
+---
 
-- 👨‍💻 All of my projects are available at [github.com/codewithshikhar/](github.com/codewithshikhar)
+## 🛠️ Tech Stack
 
-- 📫 How to reach me *shikharmishra2003@gmail.com*
- 
-- Ask me about *python, html and css*
- <br>
-<hr>
-<br>
-<h3 align="left"> Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/codersunny" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codersunny" height="30" width="40" /></a>&nbsp;<a href="https://twitter.com/sunnyjr_11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunny_jr11" height="30" width="40" /></a>&nbsp;<a href="https://www.linkedin.com/in/sushil-pandey-8ab638209/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushil-pandey-8ab638209" height="30" width="40" /></a>&nbsp;<a href="https://www.instagram.com/theamiable_sunny/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@theamiable_sunny" height="30" width="40" /></a>&nbsp;<a href="https://www.youtube.com/channel/UCCNIqsl_s-yjZJYECon4uWA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sunny vlogs" height="30" width="40" /></a>&nbsp;<a href="https://www.codechef.com/users/sunny812" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codevision" height="30" width="40" /></a>&nbsp;<a href="https://www.hackerrank.com/sengersunny448" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sengersunny448" height="30" width="40" /></a>
-</p> 
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;&nbsp; <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-</p>
+**Frontend**
+React.js • Redux Toolkit • HTML • CSS • JavaScript
 
-<hr>
-<!-- support section start from here  -->
+**Backend**
+Node.js • Express.js • MongoDB • JWT Authentication
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/codERSunny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codERSunny" /></a><a href="https://ko-fi.com/codersunny"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codersunny" /></a></p><br><br>
+**Tools & Platforms**
+GitHub • Firebase • EJS • REST APIs
 
-<!-- support section end here  -->
+---
 
-<hr>
-<h3 align="left"> Some of my stats 📊:</h3>
+## 🚀 Projects
 
+### 🔗 URL Shortener (MERN)
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithShikhar&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="codERSunny812" /></p>
+* Modular MERN application with **service, utils & DAO layers**
+* Real-time data handling using **TanStack Query**
+* Scalable backend for URL shortening & redirection
+  🔗 Repo: [https://github.com/ShikharMishraCodes/URL-Shortener](https://github.com/ShikharMishraCodes/URL-Shortener)
 
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeWithShikhar&show_icons=true&theme=midnight-purple" alt="codERSunny812" /></p>
+---
 
-<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithShikhar&theme=midnight-purple" alt="codERSunny812" /></p>
+### 🏢 ERP Web App – Sales Module (MERN)
 
+* Developed backend of **Sales Management module**
+* Built REST APIs using **Node.js, Express & MongoDB**
+* Integrated APIs across multiple ERP modules
+  🔗 Repo: [https://github.com/ShikharMishraCodes/ERP-Website](https://github.com/ShikharMishraCodes/ERP-Website)
 
-<p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithShikhar&repo=https://github.com/codERSunny812/myportfolio"> </p> 
- 
- <hr>
+---
 
+### 🤝 DevTinder (MERN)
 
+* Full‑stack application with feed, connection requests & profile management
+* Implemented **JWT auth, role-based access & custom middlewares**
+* Modern UI using **React, Tailwind & DaisyUI**
+  🔗 Repo: [https://github.com/CodeWithShikhar/DevTinder](https://github.com/CodeWithShikhar/DevTinder)
 
- <br>
- <p>
-  <i>“Ruby is rubbish! PHP is phpantastic!”</i>
-  <i> – Nikita Popov</i>
- </p>
- 
+---
 
- 
+### 🤖 ChatBuddy (React + Gemini API)
+
+* AI-powered chat app using **Google Gemini API**
+* Prompt history & real-time responses
+* State handled using React Hooks
+  🌐 Live: [https://unrivaled-faloodeh-4e8eb3.netlify.app/](https://unrivaled-faloodeh-4e8eb3.netlify.app/)
+
+---
+
+### 🌐 Portfolio Website (React)
+
+* Responsive personal portfolio
+* Light/Dark mode using **Local Storage**
+* Contact form integrated with **Formspree**
+  🌐 Live: [https://effortless-faloodeh-d13283.netlify.app/](https://effortless-faloodeh-d13283.netlify.app/)
+
+---
+
+## 📚 Education
+
+* 🎓 **B.Tech – Information Technology**
+  Dr. Rammanohar Lohia Avadh University (2020–2024) | **76%**
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [https://github.com/ShikharMishraCodes](https://github.com/ShikharMishraCodes)
+* LinkedIn: [https://www.linkedin.com/in/shikhar-mishra-14787b226/](https://www.linkedin.com/in/shikhar-mishra-14787b226/)
+* Email: [officialshikharmishra2002@gmail.com](mailto:officialshikharmishra2002@gmail.com)
+
+---
+
+⭐ *If you like my work, feel free to star the repositories!*
